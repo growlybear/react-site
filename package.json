@@ -1,0 +1,25 @@
+{
+  "name": "react-site",
+  "version": "0.0.1",
+  "description": "Site built with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/growlybear/react-site.git"
+  },
+  "author": "Michael Allan",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/growlybear/react-site/issues"
+  },
+  "devDependencies": {
+    "generator-mocha": "~0.1.1",
+    "generator-webapp": "~0.4.4",
+    "grunt-cli": "~0.1.10",
+    "bower": "~1.2.7",
+    "yo": "~1.0.4"
+  }
+}
