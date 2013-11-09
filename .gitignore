@@ -7,8 +7,14 @@ lib-cov
 *.pid
 *.gz
 
+.tmp
+.sass-cache
+
 pids
 logs
 results
+dist
+
+app/bower_components
 
 npm-debug.log
